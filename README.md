@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luigi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigibuono&label=Profile%20views&color=0e75b6&style=flat" alt="luigibuono" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luigibuono" alt="luigibuono" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on [Project JavaScript Basics](https://luigibuono.github.io/Progetto-javascript-Basics-Luigi-Buono/)
 
@@ -16,6 +22,11 @@
 - 📫 How to reach me **luigibuono1611@gmail.com**
 
 - ⚡ Fun fact **I'm writing in English even if my level is not the best :)**
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +43,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luigibuono&show_icons=true&locale=en" alt="luigibuono" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luigibuono&" alt="luigibuono" /></p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
