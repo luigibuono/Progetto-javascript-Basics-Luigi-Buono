@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luigi</h1>
+<h1 align="center">Hi 👋, I'm Luigi</h1><br><br><br><br>
+
+<br><br>
+<hr>
+
 <h3 align="center">A passionate full stack developer</h3>
 
 
