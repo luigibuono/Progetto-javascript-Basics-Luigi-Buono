@@ -1,5 +1,4 @@
-https://github.com/luigibuono/Progetto-javascript-Basics-Luigi-Buono/issues/1#issue-1694312636
-
+> ![Screenshot 2023-05-03 172105](https://user-images.githubusercontent.com/128727133/235964271-8b7e3694-bfd8-4c55-b357-f4d025e24c67.png)
 
 
 
