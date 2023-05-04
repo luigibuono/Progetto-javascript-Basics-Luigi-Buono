@@ -6,7 +6,7 @@
 <h1>Ciao👋,questo è il mio secondo progetto per Start2Impact</h1><br>
 <h1 style="center">Progetto JavaScript Basics il Contatore <h1>
 <h3>Link Netlify:https://benevolent-swan-0beb03.netlify.app <br>
-  Link Git pages:https://luigibuono.github.io/Progetto-HTML-e-CSS-di-Luigi-Buono/ </h3>
+  Link Git pages:https://luigibuono.github.io/Progetto-javascript-Basics-Luigi-Buono/ </h3>
 
 
 <br><br>
