@@ -3,7 +3,9 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Luigi</h1><br><br><br><br>
+<h1>Ciao👋,questo è il mio secondo progetto per Start2Impact</h1><br>
+<h1 style="center">Progetto JavaScript Basics il Contatore <h1>
+
 
 <br><br>
 <hr>
