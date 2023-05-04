@@ -7,11 +7,11 @@
 <h1 style="center">Progetto JavaScript Basics il Contatore <h1>
 <h3>Link Netlify:https://benevolent-swan-0beb03.netlify.app <br>
   Link Git pages:https://luigibuono.github.io/Progetto-javascript-Basics-Luigi-Buono/ </h3><br><br>
-  <ol> Per questo progetto ho utilizzato:
+  <ul> Per questo progetto ho utilizzato:
   <li>HTML </li>
   <li>CSS </li>
   <li> JavaScript </li>
-  </ol>
+  </ul>
 
 
 <br><br>
