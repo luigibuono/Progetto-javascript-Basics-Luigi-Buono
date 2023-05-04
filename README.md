@@ -23,13 +23,10 @@
 <br><br>
 
 
-- 🔭 I’m currently working on [Project JavaScript Basics](https://luigibuono.github.io/Progetto-javascript-Basics-Luigi-Buono/)<br><br><br><br><br><br><br><br>
-
-- 🌱 I’m currently learning **i am learning javabasics scripting language,and i am repeating bootstrap framework and formatting languages ​​html,css,**<br><br><br><br><br><br>
-
-- 👨‍💻 All of my projects are available at [https://github.com/luigibuono?tab=repositories](https://github.com/luigibuono?tab=repositories)<br><br><br><br><br><br>
-
-- 💬 Ask me about **JavaScript Basics,html,css,bootstrap,sass**<br><br><br><br><br><br>
+- 🔭 I’m currently working on [Project JavaScript Basics](https://luigibuono.github.io/Progetto-javascript-Basics-Luigi-Buono/)<br><br><br><br>
+- 🌱 I’m currently learning **i am learning javabasics scripting language,and i am repeating bootstrap framework and formatting languages ​​html,css,**<br><br>
+- 👨‍💻 All of my projects are available at [https://github.com/luigibuono?tab=repositories](https://github.com/luigibuono?tab=repositories)<br><br>
+- 💬 Ask me about **JavaScript Basics,html,css,bootstrap,sass**<br><br><br><br>
 
 - 📫 How to reach me **luigibuono1611@gmail.com**<br><br><br><br><br><br>
 
