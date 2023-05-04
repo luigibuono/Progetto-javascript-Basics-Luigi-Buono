@@ -11,7 +11,9 @@
   <li>HTML </li>
   <li>CSS </li>
   <li> JavaScript </li>
-  </ul>
+  </ul><br><br>
+  <h1 style="center">Codice JS<h1>
+  <p>Nel codice JavaScript mi sono aiutato con l'uso di metodi ed eventi per rendere dinamici i miei pulsanti. </p>
 
 
 <br><br>
