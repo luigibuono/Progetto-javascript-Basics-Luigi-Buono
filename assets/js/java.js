@@ -1,23 +1,25 @@
-let add = document.getElementById ('incrementa');
-let remove = documenti.getElementById('decrementa');
-let reset = document.getElementById('resetta');
-let numero = document.getElementById('counter')
 
-let numero = 0;
 
-add.addEventListener('click',function(){
+let add = document.getElementById('increase');
+let remove = document.getElementById('decrease');
+let reset =document.getElementById('reset');
+let int = document.getElementById('counter');
 
-                     numero +=1;
-                     int.innerHTML = numero;});
+let integer = 0;
+
+add.addEventListener('click', function(){
+
+    integer +=1;
+    int.innerHTML = integer;
+
+});
 
 remove.addEventListener('click', function(){
-    numero -=1;
-    int.innerHTML=numero;
+    integer -=1;
+    int.innerHTML=integer;
 })
-
 
 reset.addEventListener('click', function(){
-    numero = 0;
-    int.innerHTML = numero;
-})
-                     
+    integer = 0;
+    int.innerHTML = integer;
+})      
